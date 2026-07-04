@@ -8,31 +8,48 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-```java
-public class Mouneeshwaran {
+<div align="center">
 
-    String role = "Full Stack Java Developer";
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Passionate+Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-    String college = "K.S.R College of Engineering";
+</div>
 
-    double cgpa = 8.10;
+<table>
+<tr>
 
-    String location = "Dharmapuri, Tamil Nadu";
+<td width="55%">
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "MongoDB",
-        "MySQL"
-    };
+### 👋 Hello, I'm **Mouneeshwaran B**
 
-    String hobby = "Building Real Time Projects";
+💻 Full Stack Java Developer
 
-}
-```
+🎓 Computer Science Engineering Graduate
+
+📍 Dharmapuri, Tamil Nadu 🇮🇳
+
+🔥 Passionate about Java Backend Development
+
+🌱 Learning Spring Boot, React & MongoDB
+
+🧩 Solving LeetCode Daily
+
+🚀 Love Building Real World Projects
+
+🎯 Goal:
+Become a Software Engineer at a Product-Based Company.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
