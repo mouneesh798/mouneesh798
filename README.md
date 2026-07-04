@@ -77,8 +77,10 @@ Become a Software Engineer at a Product-Based Company.
 
 ---
 
-# 💻 Tech Stack
-
+<h2>
+<img src="https://api.iconify.design/material-symbols:code-blocks-rounded.svg" width="30">
+Tech Stack
+</h2>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mongodb,mysql,git,github,vscode,postman,idea,figma,vercel,render&perline=8"/>
