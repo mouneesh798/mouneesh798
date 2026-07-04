@@ -1,11 +1,9 @@
+
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=✨+Mouneeshwaran+B+✨;Full+Stack+Java+Developer;Spring+Boot+•+React+•+MongoDB;Always+Learning+New+Technologies"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mouneeshwaran+B;Full+Stack+Java+Developer;Spring+Boot+React+MongoDB;Always+Learning+New+Technologies"/>
 
 </div>
-
 ---
 
 # 🚀 About Me
