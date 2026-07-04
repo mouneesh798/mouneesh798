@@ -65,6 +65,14 @@ Become a Software Engineer at a Product-Based Company.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mouneesh12.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/u/Mouneesh_14/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
 ---
