@@ -6,8 +6,10 @@
 </div>
 ---
 
-# 🚀 About Me
-
+<h2>
+<img src="https://api.iconify.design/material-symbols:person-rounded.svg" width="30">
+About Me
+</h2>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Java+Developer;Passionate+Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
