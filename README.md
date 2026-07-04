@@ -181,7 +181,7 @@ Tech Stack
 
 ---
 <h2>
-  <img src="https://api.iconify.design/material-symbols:timeline-rounded.svg" width="28" />
+  <img src="https://api.iconify.design/material-symbols:trending-up-rounded.svg" width="28"/>
   Contribution Snake
 </h2>
 
