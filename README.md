@@ -53,7 +53,10 @@ Become a Software Engineer at a Product-Based Company.
 
 ---
 
-# 🌐 Connect With Me
+<h2>
+  <img src="https://api.iconify.design/material-symbols:contacts-rounded.svg" width="28" />
+  Connect With Me
+</h2>
 
 <p align="center">
 
@@ -89,7 +92,10 @@ Tech Stack
 
 ---
 
-# 🏆 Achievements
+<h2>
+  <img src="https://api.iconify.design/material-symbols:workspace-premium-rounded.svg" width="28" />
+  Achievements
+</h2>
 
 🏅 3⭐ Problem Solving - HackerRank
 
@@ -102,8 +108,10 @@ Tech Stack
 🏅 Solving LeetCode Daily
 
 ---
-# 📊 GitHub Analytics
-
+<h2>
+  <img src="https://api.iconify.design/material-symbols:analytics-rounded.svg" width="28" />
+  GitHub Analytics
+</h2>
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouneesh798&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
@@ -114,8 +122,10 @@ Tech Stack
 
 ---
 
-# 📈 Contribution Activity
-
+<h2>
+  <img src="https://api.iconify.design/material-symbols:monitoring-rounded.svg" width="28" />
+  Contribution Activity
+</h2>
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouneesh798&theme=tokyo-night&hide_border=true"/>
@@ -123,8 +133,10 @@ Tech Stack
 </p>
 
 ---
-
-# ⚡ Coding Activity
+<h2>
+  <img src="https://api.iconify.design/material-symbols:code-blocks-rounded.svg" width="28" />
+  Coding Activity
+</h2>
 
 <p align="center">
 
@@ -134,8 +146,10 @@ Tech Stack
 
 ---
 
-# 🚀 GitHub Profile Summary
-
+<h2>
+  <img src="https://api.iconify.design/material-symbols:dashboard-rounded.svg" width="28" />
+  GitHub Profile Summary
+</h2>
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mouneesh798&theme=tokyonight"/>
@@ -154,7 +168,10 @@ Tech Stack
 
 ---
 
-# 👀 Profile Visitors
+<h2>
+  <img src="https://api.iconify.design/material-symbols:visibility-rounded.svg" width="28" />
+  Profile Visitors
+</h2>
 
 <p align="center">
 
@@ -163,9 +180,10 @@ Tech Stack
 </p>
 
 ---
-# 🐍 Contribution Snake
-
-> **⚠️ Note:** This will work after you add the GitHub Action workflow.
+<h2>
+  <img src="https://api.iconify.design/material-symbols:timeline-rounded.svg" width="28" />
+  Contribution Snake
+</h2>
 
 <p align="center">
 
@@ -175,7 +193,10 @@ Tech Stack
 
 ---
 
-# 💬 Random Dev Quote
+<h2>
+  <img src="https://api.iconify.design/material-symbols:format-quote-rounded.svg" width="28" />
+  Random Dev Quote
+</h2>
 
 <p align="center">
 
@@ -185,7 +206,10 @@ Tech Stack
 
 ---
 
-# 💡 My Coding Philosophy
+<h2>
+  <img src="https://api.iconify.design/material-symbols:lightbulb-rounded.svg" width="28" />
+  My Coding Philosophy
+</h2>
 
 > 💻 **Code with Passion**
 >
@@ -199,11 +223,10 @@ Tech Stack
 
 ---
 
-# ☕ Support Me
-
-<div align="center">
-
-## 🚀 Thanks for Visiting!
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols:waving-hand-rounded.svg" width="30" />
+  Thanks for Visiting!
+</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 
