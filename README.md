@@ -95,26 +95,6 @@ public class Mouneeshwaran {
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouneesh798&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mouneesh798&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
@@ -180,41 +160,9 @@ public class Mouneeshwaran {
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcode.com/u/Mouneesh_14/"/>
 
 </p>
-
-> Replace **YOUR_LEETCODE_USERNAME** with your actual LeetCode username.
-
----
-
-# ⏱️ WakaTime Coding Stats
-
-> **⚠️ Requires a WakaTime account.**
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-> Replace **YOUR_WAKATIME_USERNAME** with your WakaTime username.
-
----
-
-# 🎵 Spotify Now Playing
-
-> **⚠️ Requires Spotify GitHub integration.**
-
-<p align="center">
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212"/>
-</a>
-
-</p>
-
-> Replace **YOUR_SPOTIFY_ID** with your Spotify user ID.
 
 ---
 
@@ -229,17 +177,6 @@ public class Mouneeshwaran {
 ---
 
 # ☕ Support Me
-
-<p align="center">
-
-<a href="https://www.buymeacoffee.com/">
-
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"/>
-
-</a>
-
-</p>
----
 
 <div align="center">
 
