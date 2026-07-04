@@ -49,11 +49,11 @@ public class Mouneeshwaran {
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel"/>
+<img src="https://mouneesh12.netlify.app/"/>
 </a>
 
 <a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://leetcode.com/u/Mouneesh_14/"/>
 </a>
 
 </p>
@@ -239,25 +239,6 @@ public class Mouneeshwaran {
 </a>
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(!success){
-
-    Learn();
-
-    Build();
-
-    Practice();
-
-    Repeat();
-
-}
-```
-
 ---
 
 <div align="center">
