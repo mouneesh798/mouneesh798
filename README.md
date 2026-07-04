@@ -183,6 +183,20 @@ Become a Software Engineer at a Product-Based Company.
 
 ---
 
+# 💡 My Coding Philosophy
+
+> 💻 **Code with Passion**
+>
+> 📚 **Learn Every Day**
+>
+> 🚀 **Build Real Projects**
+>
+> 🧩 **Solve Problems**
+>
+> 🌟 **Never Stop Growing**
+
+---
+
 # ☕ Support Me
 
 <div align="center">
