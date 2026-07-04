@@ -48,14 +48,6 @@ public class Mouneeshwaran {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://mouneesh12.netlify.app/"/>
-</a>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://leetcode.com/u/Mouneesh_14/"/>
-</a>
-
 </p>
 
 ---
@@ -151,16 +143,6 @@ public class Mouneeshwaran {
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/mouneesh798/mouneesh798/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 🎯 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcode.com/u/Mouneesh_14/"/>
 
 </p>
 
