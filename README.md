@@ -108,19 +108,6 @@ Tech Stack
 🏅 Solving LeetCode Daily
 
 ---
-<h2>
-  <img src="https://api.iconify.design/material-symbols:analytics-rounded.svg" width="28" />
-  GitHub Analytics
-</h2>
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouneesh798&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mouneesh798&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 <h2>
   <img src="https://api.iconify.design/material-symbols:monitoring-rounded.svg" width="28" />
